@@ -20,4 +20,5 @@ Feel free to extend it, I will accept any implementation.
 
 - Implement Merge Sort
 - Create macros to run the sorting functions
-- Use Criterion to benchmark the sorting algorithms.
+- Use Criterion to benchmark the sorting algorithms
+- Create GUIs to visualize the sorting algorithms
